@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "systemProjects",
+    "packageName": "com.shevtsou.system",
+    "packageFolder": "com/shevtsou/system",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "ZDI4MDA2YTc4YmI4MGYzMzQyMzgzMTM3ZjBiODkyNWFiMmYxNTgyNGEyNWVjMjY5NDRkNGRiYjk3Nzc5MTgwNzA1MzVmNGEwMTUzOTJjMWRjOWVlNDQ3ZDg2NDg3NWU4NzY0YTgzNDBlNWZmZmFlY2VkNzVkMDM3ZmM3NmIzMTg=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "shevtsou",
+  "repository-name": "system-projects"
+}
